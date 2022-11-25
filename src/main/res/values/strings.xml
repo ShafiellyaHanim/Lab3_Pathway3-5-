@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_surname">Shafiellya Hanim</string>
+    <string name="business">Scrum Master</string>
+    <string name="phone_number">+6018 384 7100</string>
+    <string name="email_text">haaanim@gmail.com</string>
+    <string name="share_text">haaanim@linkeldn.com</string>
+</resources>
